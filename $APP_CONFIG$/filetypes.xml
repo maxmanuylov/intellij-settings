@@ -1,8 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="15">
-    <extensionMap>
-      <mapping pattern="pg_ctl" type="PLAIN_TEXT" />
-      <mapping pattern="clusterdb" type="PLAIN_TEXT" />
-    </extensionMap>
-  </component>
-</application>
