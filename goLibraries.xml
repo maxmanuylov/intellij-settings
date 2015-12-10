@@ -1,9 +1,7 @@
 <application>
   <component name="GoLibraries">
     <option name="urls">
-      <set>
-        <option value="file:///usr/local/go" />
-      </set>
+      <set />
     </option>
   </component>
 </application>
