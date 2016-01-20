@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="16">
     <extensionMap>
       <mapping pattern="webdav" type="Bash" />
-      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
