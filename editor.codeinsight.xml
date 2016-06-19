@@ -1,5 +1,5 @@
 <application>
   <component name="CodeInsightSettings">
-    <option name="b" value="0" />
+    <option name="SMART_BACKSPACE" value="0" />
   </component>
 </application>
