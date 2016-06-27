@@ -44,7 +44,7 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Work" />
+    <option name="cloneParentDir" value="$USER_HOME$/Work/go/src/github.com/maxmanuylov" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Work/mm-sandbox" />
