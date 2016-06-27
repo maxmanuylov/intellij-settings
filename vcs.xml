@@ -42,6 +42,10 @@
           <option name="url" value="git@github.com:maxmanuylov/terraform-provider-kubernetes.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:maxmanuylov/utils.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Work/go/src/github.com/maxmanuylov" />
