@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="webdav" type="Bash" />
+      <mapping ext="dockerfile" type="Dockerfile" />
       <mapping pattern=".dockerenv" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
