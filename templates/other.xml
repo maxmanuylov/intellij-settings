@@ -1,10 +1,10 @@
 <templateSet group="other">
-  <template name="nn" value="@org.jetbrains.annotations.NotNull " toReformat="false" toShortenFQNames="true">
+  <template name="nn" value="@org.jetbrains.annotations.NotNull " description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="nu" value="@org.jetbrains.annotations.Nullable " toReformat="false" toShortenFQNames="true">
+  <template name="nu" value="@org.jetbrains.annotations.Nullable " description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_DECLARATION" value="true" />
     </context>
