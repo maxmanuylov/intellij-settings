@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="docker-image" type="Bash" />
       <mapping pattern="ceph-volume" type="Bash" />
       <mapping pattern="webdav" type="Bash" />
