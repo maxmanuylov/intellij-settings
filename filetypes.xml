@@ -1,6 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="docker-image" type="Bash" />
+      <mapping pattern="ceph-volume" type="Bash" />
+      <mapping pattern="webdav" type="Bash" />
       <mapping ext="dockerfile" type="Dockerfile" />
       <mapping ext="ktc" type="Kotlin" />
       <mapping pattern=".dockerenv" type="PLAIN_TEXT" />
@@ -10,15 +14,12 @@
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="pem2" type="PLAIN_TEXT" />
-      <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="575812325~+0300~msk_cluster_read" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
+      <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="key2" type="PLAIN_TEXT" />
       <mapping pattern="cluster.config" type="Terraform" />
-      <mapping pattern="ceph-volume" type="Bash" />
-      <mapping pattern="docker-image" type="Bash" />
-      <mapping pattern="webdav" type="Bash" />
     </extensionMap>
   </component>
 </application>
