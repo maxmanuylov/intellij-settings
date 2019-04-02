@@ -14,5 +14,6 @@
     <mask>*.mxml</mask>
     <mask>*.gradle</mask>
     <mask>*.kt</mask>
+    <mask>*Job*</mask>
   </component>
 </application>
