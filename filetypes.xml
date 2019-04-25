@@ -14,6 +14,7 @@
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="575812325~+0300~msk_cluster_read" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
+      <mapping ext="jstack" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="key2" type="PLAIN_TEXT" />
       <mapping pattern="cluster.config" type="Terraform" />
