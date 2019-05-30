@@ -1,0 +1,17 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId=".ignore plugin" />
+    <notification groupId=".ignore plugin update information" />
+    <notification groupId="Dependencies from package.json" />
+    <notification groupId="Gradle Import" />
+    <notification groupId="IDE and Plugin Updates" />
+    <notification groupId="JBA Cloud Config" />
+    <notification groupId="Maven Import" />
+    <notification groupId="OSGi Bnd Notifications" />
+    <notification groupId="OSGi Important Messages" />
+    <notification groupId="Plugins Suggestion" />
+    <notification groupId="Plugins updates" />
+    <notification groupId="Spring Configuration Check" />
+    <notification groupId="Vcs Important Messages" />
+  </component>
+</application>
