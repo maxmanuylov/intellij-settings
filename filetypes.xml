@@ -1,6 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="docker-image" type="Bash" />
+      <mapping pattern="webdav" type="Bash" />
+      <mapping pattern="ceph-volume" type="Bash" />
       <mapping ext="dockerfile" type="Dockerfile" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="ktc" type="Kotlin" />
@@ -25,9 +28,6 @@
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <mapping pattern="ceph-volume" type="Bash" />
-      <mapping pattern="docker-image" type="Bash" />
-      <mapping pattern="webdav" type="Bash" />
     </extensionMap>
   </component>
 </application>
