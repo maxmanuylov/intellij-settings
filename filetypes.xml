@@ -16,6 +16,7 @@
       <mapping ext="602685095~+0300~msk_resource_read" type="PLAIN_TEXT" />
       <mapping ext="480697963~+0300~msk" type="PLAIN_TEXT" />
       <mapping ext="jstack" type="PLAIN_TEXT" />
+      <mapping ext="gold" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="pem2" type="PLAIN_TEXT" />
