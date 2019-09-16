@@ -3,6 +3,7 @@
     <notification groupId=".ignore plugin" />
     <notification groupId=".ignore plugin update information" />
     <notification groupId="Dependencies from package.json" />
+    <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
     <notification groupId="Gradle Import" />
     <notification groupId="IDE and Plugin Updates" />
     <notification groupId="JBA Cloud Config" />
