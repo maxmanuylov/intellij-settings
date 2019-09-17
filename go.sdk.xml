@@ -1,0 +1,9 @@
+<application>
+  <component name="GoSdkList">
+    <sdk-path>
+      <set>
+        <option value="$USER_HOME$/.gradle/go/binary/1.12.5/go" />
+      </set>
+    </sdk-path>
+  </component>
+</application>
