@@ -1,5 +1,10 @@
 <application>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+    <option name="disabledHintProviderIds">
+      <set>
+        <option value="Groovy.groovy.parameters.hints" />
+      </set>
+    </option>
+    <option name="lastViewedProviderKeyId" value="JavaLens" />
   </component>
 </application>
