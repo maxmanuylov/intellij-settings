@@ -2,6 +2,7 @@
   <component name="GoSdkList">
     <sdk-path>
       <set>
+        <option value="" />
         <option value="$USER_HOME$/.gradle/go/binary/1.12.5/go" />
       </set>
     </sdk-path>
