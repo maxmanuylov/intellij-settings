@@ -13,7 +13,6 @@
       <mapping ext="480697963~+0300~msk" type="PLAIN_TEXT" />
       <mapping ext="602685095~+0300~msk_resource_read" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
-      <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="pem2" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
@@ -21,6 +20,7 @@
       <mapping ext="jstack" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="key2" type="PLAIN_TEXT" />
+      <mapping ext="service" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="cluster.config" type="Terraform" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
